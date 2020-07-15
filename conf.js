@@ -12,7 +12,7 @@ jsproxy_config({
     'defalut': {
       label: '第1通道',
       lines: {
-        'floral-river-f2e7.dami2431.workers.dev': 1,
+        'gentle-moon-99b3.wode6125.workers.dev': 1,
       }
     },
     
@@ -20,7 +20,7 @@ jsproxy_config({
     'defalut1': {
       label: '第2通道',
       lines: {
-        'lucky-sun-3ec0.dami2431.workers.dev': 1,
+        'shiny-bush-a60f.wode6125.workers.dev': 1,
       }
     },
     
@@ -28,7 +28,7 @@ jsproxy_config({
     'defalut2': {
       label: '第3通道',
       lines: {
-        'dry-tooth-ec5f.wode6125.workers.dev': 1,
+        'super-feather-0ff3.dami2431.workers.dev': 1,
       }
     },
   
@@ -36,7 +36,7 @@ jsproxy_config({
       'defalut3': {
       label: '第4通道',
       lines: {
-        'morning-lake-0aa1.wode6125.workers.dev': 1,
+        'wandering-cherry-fae6.dami2431.workers.dev': 1,
       },
     },
     
